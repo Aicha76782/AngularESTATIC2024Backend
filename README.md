@@ -1,8 +1,7 @@
 ## PROJET ANGULAR: MASTER 2 MBDS
  Nom des participants:
-- KARIMU LEILA ROXANE
-- KONAN ELIUD NICANOR
-- KONATE DOTEMIN
+- YANKINE AICHA
+- DEBY 
 
 *************************************************
 # I- TITRE DU PROJET
@@ -44,10 +43,10 @@ Adresse mail : konate@gmail.com
 Mot de passe : 1234
 
 3- Si vous souhaitez vous connecter en tant qu'utilisateur Standard, utilisez les identifiants suivants :
-Adresse mail :  nicanor@gmail.com
+Adresse mail :  aichayankine76@gmail.com
 Mot de passe :  1234
 
-Adresse mail :  roxane@mbds.com
+Adresse mail :  konan@gmail.com
 Mot de passe :  1234
 
 
